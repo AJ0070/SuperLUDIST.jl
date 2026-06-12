@@ -24,7 +24,7 @@ SparseArraysExt = "SparseArrays"
 
 [compat]
 CIndices = "0.3"
-DocStringExtensions = "0.8"
+DocStringExtensions = "0.8, 0.9"
 MPI = "0.20"
 MatrixMarket = "0.5"
 SparseBase = "0.4"
