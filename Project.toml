@@ -27,10 +27,11 @@ CIndices = "0.3"
 DocStringExtensions = "0.8, 0.9"
 MPI = "0.20"
 MatrixMarket = "0.5"
+OpenBLAS32_jll = "0.3"
 SparseBase = "0.4"
 SuperLUBase = "0.3"
 SuperLU_DIST_jll = "8.0.0"
-julia = "1.7"
+julia = "1.10"
 Preferences = "1"
 
 [extras]
